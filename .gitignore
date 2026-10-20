@@ -1,0 +1,27 @@
+# Game builds and generated Unity/Tuanjie files belong outside this documentation repository.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+*_Data/
+MonoBleedingEdge/
+*_BurstDebugInformation_DoNotShip/
+*.exe
+*.dll
+*.pdb
+*.log
+*.zip
+*.7z
+*.rar
+
+# Raw course submissions and editor/system files.
+*.pdf
+.vs/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+*.tmp
