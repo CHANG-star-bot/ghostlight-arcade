@@ -1,4 +1,4 @@
-# Game builds and generated Unity/Tuanjie files belong outside this documentation repository.
+# Unity/Tuanjie editor caches and temporary output.
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,11 +6,11 @@
 [Bb]uild/
 [Bb]uilds/
 [Uu]ser[Ss]ettings/
-*_Data/
-MonoBleedingEdge/
 *_BurstDebugInformation_DoNotShip/
 *.exe
 *.dll
+!games/**/*.exe
+!games/**/*.dll
 *.pdb
 *.log
 *.zip

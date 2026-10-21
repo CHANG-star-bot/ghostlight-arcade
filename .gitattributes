@@ -1,4 +1,7 @@
 * text=auto
 *.md text eol=lf
 *.csv text eol=lf
+*.cs text eol=lf
 *.png binary
+games/** binary linguist-vendored
+games/build-manifest.json text diff eol=lf linguist-generated
